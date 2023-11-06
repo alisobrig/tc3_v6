@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="kaltura_0">
+    <title>Kaltura overview</title>
+    <shortdesc>Kaltura is a media management platform for teaching, learning, and
+        outreach.</shortdesc>
+    <conbody>
+        <p> This cloud-based system automatically optimizes video files for viewing on any device, includes
+            strong accessibility work flows, powerful search functions, and deep analytics about who is
+            watching videos and for how long. </p>
+        <image href="Kaltura.png" placement="break" width="200px">
+            <alt>Kaltura logo</alt>
+        </image>
+    </conbody>
+
+</concept>

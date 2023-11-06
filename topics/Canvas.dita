@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_utb_nl5_3zb">
+    <title>Canvas overview</title>
+    <abstract>Canvas is a web-based learning management system used by learning institutions,
+        educators, and students to access and manage online course learning materials.
+            <shortdesc>The University of Minnesota uses Canvas as its primary learning management
+            system.</shortdesc></abstract> 
+    <conbody>
+        <p>Canvas includes a variety of customizable tools to help manage and communicate course content. Kaltura integration with Canvas allows users to upload, record, and
+        edit videos that will later be uploaded to the Canvas course page.</p>
+        <p>
+            Videos in Canvas are
+            often used to share educational content such as
+            <ul>
+                <li>lectures,</li>
+                <li>demonstrations,</li>
+                <li>instructions,</li>
+                <li>weekly overviews.</li>
+            </ul></p>
+    </conbody>
+  
+</concept>

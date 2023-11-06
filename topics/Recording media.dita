@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qt4_yh5_3zb">
+    <title>Recording new media</title>
+    <shortdesc>The Kaltura media space is able to record new content for My Media using user web
+        cams.</shortdesc>
+    <taskbody>
+        <context>These steps assume your browser can support the <xref href="https://webrtc.org/"
+            format="html" scope="external">WebRTC standard</xref>. <p/></context>
+        <steps>
+            <step>
+                <cmd>Log in to <xref href="https://mediaspace.umn.edu/" format="html"
+                    scope="external">mediaspace.umn.edu</xref></cmd>
+            </step>
+            <step>
+                <cmd>Click the <uicontrol>+ Add New</uicontrol> button found on the top right corner of the page's banner</cmd>
+                <info><image href="add_new.png" width="450"></image></info>
+            </step>
+            <step>
+                <cmd> Select <uicontrol>Record Webcam </uicontrol>in Browser from the drop-down menu
+                    to open the Record Media window</cmd>
+                <info>
+                    <ul>
+                        <li>The web browser and/or operating system may ask permission for
+                            canvas.umn.edu to use your camera and microphone. Click
+                                <uicontrol>Allow</uicontrol> to give Kaltura access to your
+                            webcam.</li>
+                        <li>Click the <uicontrol>gear </uicontrol>icon in the top right corner of
+                            the video display to change which/whether camera or microphone is
+                            recorded.</li>
+                    </ul>
+                    <note>It may take a moment for the camera to appear on screen</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>red circle </uicontrol>button to start recording</cmd>
+                <info>
+                    <note type="important">Scroll to the bottom of the screen if the red button is
+                        not visible</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>white squar e</uicontrol>button to stop recording</cmd>
+            </step>
+            <step>
+                <cmd>Select the white play button to review your recording. If you are unsatisfied,
+                    click the <uicontrol>Record Again </uicontrol>button to re-record.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Use this</uicontrol> to upload the recording to Kaltura</cmd>
+            </step>
+            <step>
+                <cmd>Enter a name for the recording near the bottom of the window</cmd>
+            </step>
+            <step>
+                <cmd>Scroll down, select <uicontrol>Save</uicontrol> and wait until the window reloads with the message <msgph>Your changes have been saved</msgph></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Go to Media Page</uicontrol> and then <uicontrol>Go to My
+                        Media</uicontrol> to return to your MediaSpace dashboard. </cmd>
+            </step>
+
+        </steps>
+    </taskbody>
+</task>

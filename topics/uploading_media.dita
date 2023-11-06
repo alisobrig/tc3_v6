@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="uploading_media">
+    <title>Uploading media</title>
+    <shortdesc>Kaltura capture allows the user to upload previously recorded media. Using the upload
+        feature is recommended for sharing previously recorded media to Canvas.</shortdesc>
+    <taskbody>
+   
+        <steps>
+            <step>
+                <cmd>Log in to <xref href="http://mediaspace.umn.edu/" format="html"
+                        scope="external">Kaltura MediaSpace</xref></cmd>
+            </step>
+            <step>
+                <cmd>Select the <uicontrol>+ Add New</uicontrol>button in the upper-right corner of
+                    the page</cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Upload New Media</uicontrol> to make the upload media window appear</cmd>
+            </step>
+            <step>
+                <cmd>Drag and drop your file into the display box or select <uicontrol>+ Choose a File Upload</uicontrol> to
+                    button to browse files on your computer</cmd>
+            </step>
+            <step>
+                <cmd>Update the Name, Description, Tags, and Publishing Schedule as desired</cmd>
+            </step>
+            <step>
+                <cmd>Choose your video <xref href="Share%20types.dita">share settings</xref></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>Save</uicontrol>at the bottom of the page</cmd>
+                <info> <note type="attention">Your file may take some time to process depending on the size and quality
+                        chosen, but it is available in My Media once fully uploaded.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

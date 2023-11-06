@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_eqj_w25_3zb">
+    <title>Video share settings table</title>
+    <shortdesc>There are several publishing options that control who can access published Kaltura
+        media. </shortdesc>
+    <refbody>
+    
+        <table>
+            <tgroup cols="2">
+                <colspec colname="COLSPEC0" colwidth="1*" align="center"/>
+                <colspec colname="COLSPEC1" colwidth="1.69*"/>
+                <thead>
+                    <row>
+                        <entry colname="COLSPEC0" valign="top">Publishing type</entry>
+                        <entry colname="COLSPEC1" valign="top">Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Private</entry>
+                        <entry>
+                            <ul>
+                                <li>
+                                    Media page is visible to the content owner only
+                                </li>
+                                <li>
+                                    Media page cannot be shared with others
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Unlisted</entry>
+                        <entry>
+                            <ul>
+                                <li>
+                                    Media page is visible to anyone with a link to the page
+                                </li>
+                                <li>
+                                    Link must be shared directly with others by <xref
+                                        href="https://ccaps.umn.edu/academic-technology-and-design/instructors/tutorials-media/kaltura-obtaining-sharable-media-link"
+                                        format="html" scope="external">Getting a Shareable
+                                        Link</xref>
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>Public</entry>
+                        <entry>
+                            <ul>
+                                <li>Media page is visible to individuals according to permissions set for your channels</li>
+                                <li>A<xref
+                                        href="https://it.umn.edu/services-technologies/how-tos/kaltura-mediaspace-use-channels-group"
+                                        format="html" scope="external">Channel</xref> must already exist within MediaSpace to use this option</li>
+                            </ul>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
