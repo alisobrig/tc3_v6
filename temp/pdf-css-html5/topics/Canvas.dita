@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/alisonobright/Desktop/tc3_v6/temp/pdf-css-html5/topics?><?workdir-uri file:/Users/alisonobright/Desktop/tc3_v6/temp/pdf-css-html5/topics/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_utb_nl5_3zb" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="concept:1;3:35" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="title:1;4:12">Canvas overview</title>
+    <abstract class="- topic/abstract " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="abstract:1;5:15">Canvas is a web-based learning management system used by learning institutions,
+        educators, and students to access and manage online course learning materials.
+            <shortdesc class="- topic/shortdesc " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="shortdesc:1;7:24">The University of Minnesota uses Canvas as its primary learning management
+            system.</shortdesc></abstract> 
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="conbody:1;9:14">
+        <p class="- topic/p " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="p:1;10:12">Canvas includes a variety of customizable tools to help manage and communicate course content. Kaltura integration with Canvas allows users to upload, record, and
+        edit videos that will later be uploaded to the Canvas course page.</p>
+        <p class="- topic/p " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="p:2;12:12">
+            Videos in Canvas are
+            often used to share educational content such as
+            <ul class="- topic/ul " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="ul:1;15:17">
+                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="li:1;16:21">lectures,</li>
+                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="li:2;17:21">demonstrations,</li>
+                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="li:3;18:21">instructions,</li>
+                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Canvas.dita" xtrc="li:4;19:21">weekly overviews.</li>
+            </ul></p>
+    </conbody>
+  
+</concept>

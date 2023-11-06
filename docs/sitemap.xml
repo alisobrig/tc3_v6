@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
+      <loc>topics/Canvas.html</loc>
+      <lastmod>2023-11-06T01:55:06Z</lastmod>
+   </url>
+   <url>
       <loc>topics/Kaltura.html</loc>
-      <lastmod>2023-11-06T01:15:45Z</lastmod>
+      <lastmod>2023-11-06T01:55:06Z</lastmod>
    </url>
    <url>
       <loc>topics/uploading_media.html</loc>
-      <lastmod>2023-11-06T01:15:45Z</lastmod>
+      <lastmod>2023-11-06T01:55:06Z</lastmod>
    </url>
    <url>
       <loc>topics/Share%20types.html</loc>
-      <lastmod>2023-11-06T01:15:45Z</lastmod>
+      <lastmod>2023-11-06T01:55:06Z</lastmod>
    </url>
    <url>
       <loc>topics/Recording%20media.html</loc>
-      <lastmod>2023-11-06T01:15:45Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/Canvas.html</loc>
-      <lastmod>2023-11-06T01:15:45Z</lastmod>
+      <lastmod>2023-11-06T01:55:06Z</lastmod>
    </url>
 </urlset>

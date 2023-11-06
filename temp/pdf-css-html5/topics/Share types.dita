@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/alisonobright/Desktop/tc3_v6/temp/pdf-css-html5/topics?><?workdir-uri file:/Users/alisonobright/Desktop/tc3_v6/temp/pdf-css-html5/topics/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="reference_eqj_w25_3zb" ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic       reference/reference " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="reference:1;3:39" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="title:1;4:12">Video share settings table</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="shortdesc:1;5:16">There are several publishing options that control who can access published Kaltura
+        media. </shortdesc>
+    <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="refbody:1;7:14">
+    
+        <table class="- topic/table " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="table:1;9:16">
+            <tgroup cols="2" class="- topic/tgroup " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="tgroup:1;10:30">
+                <colspec colname="col1" colwidth="1*" align="center" class="- topic/colspec " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="colspec:1;11:75" colnum="1"/>
+                <colspec colname="col2" colwidth="1.69*" class="- topic/colspec " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="colspec:2;12:63" colnum="2"/>
+                <thead class="- topic/thead " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="thead:1;13:24">
+                    <row class="- topic/row " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="row:1;14:26">
+                        <entry colname="col1" valign="top" class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:1;15:64" dita-ot:x="1" dita-ot:y="1">Publishing type</entry>
+                        <entry colname="col2" valign="top" class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:2;16:64" dita-ot:x="2" dita-ot:y="1">Meaning</entry>
+                    </row>
+                </thead>
+                <tbody class="- topic/tbody " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="tbody:1;19:24">
+                    <row class="- topic/row " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="row:2;20:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:3;21:32" colname="col1" dita-ot:x="1" dita-ot:y="2">Private</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:4;22:32" colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <ul class="- topic/ul " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="ul:1;23:33">
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:1;24:37">
+                                    Media page is visible to the content owner only
+                                </li>
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:2;27:37">
+                                    Media page cannot be shared with others
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="row:3;33:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:5;34:32" colname="col1" dita-ot:x="1" dita-ot:y="3">Unlisted</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:6;35:32" colname="col2" dita-ot:x="2" dita-ot:y="3">
+                            <ul class="- topic/ul " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="ul:2;36:33">
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:3;37:37">
+                                    Media page is visible to anyone with a link to the page
+                                </li>
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:4;40:37">
+                                    Link must be shared directly with others by <xref href="https://ccaps.umn.edu/academic-technology-and-design/instructors/tutorials-media/kaltura-obtaining-sharable-media-link" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="xref:1;43:72"><?ditaot usertext?>Getting a Shareable
+                                        Link</xref>
+                                </li>
+                            </ul>
+                        </entry>
+                    </row>
+                    <row class="- topic/row " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="row:4;49:26">
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:7;50:32" colname="col1" dita-ot:x="1" dita-ot:y="4">Public</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="entry:8;51:32" colname="col2" dita-ot:x="2" dita-ot:y="4">
+                            <ul class="- topic/ul " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="ul:3;52:33">
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:5;53:37">Media page is visible to individuals according to permissions set for your channels</li>
+                                <li class="- topic/li " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="li:6;54:37">A<xref href="https://it.umn.edu/services-technologies/how-tos/kaltura-mediaspace-use-channels-group" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" xtrc="xref:2;56:72"><?ditaot usertext?>Channel</xref> must already exist within MediaSpace to use this option</li>
+                            </ul>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

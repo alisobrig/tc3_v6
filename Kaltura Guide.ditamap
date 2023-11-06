@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Project</title>
+    <title>Kaltura Guide</title>
+    <topicref href="topics/Canvas.dita"/>
     <topicref href="topics/Kaltura.dita">
         <topicref href="topics/uploading_media.dita">
             <topicref href="topics/Share%20types.dita"/>
         </topicref>
         <topicref href="topics/Recording%20media.dita"/>
     </topicref>
-    <topicref href="topics/Canvas.dita"/>
 </map>

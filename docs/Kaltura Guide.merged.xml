@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/alisonobright/Desktop/tc3_v6/Kaltura%20Guide.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Kaltura Guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Kaltura Guide</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_utb_nl5_3zb"><resourceid appid="concept_utb_nl5_3zb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Canvas overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The University of Minnesota uses Canvas as its primary learning management             system.</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="kaltura_0"><resourceid appid="kaltura_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Kaltura overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Kaltura is a media management platform for teaching, learning, and         outreach.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="uploading_media"><resourceid appid="uploading_media" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Uploading media</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Kaltura capture allows the user to upload previously recorded media. Using the upload         feature is recommended for sharing previously recorded media to Canvas.</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_eqj_w25_3zb"><resourceid appid="reference_eqj_w25_3zb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Video share settings table</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">There are several publishing options that control who can access published Kaltura         media. </shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task_qt4_yh5_3zb"><resourceid appid="task_qt4_yh5_3zb" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Recording new media</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The Kaltura media space is able to record new content for My Media using user web         cams.</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept_utb_nl5_3zb" oid="concept_utb_nl5_3zb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Canvas overview</ph></title>
+    <abstract class="- topic/abstract ">Canvas is a web-based learning management system used by learning institutions,
+        educators, and students to access and manage online course learning materials.
+            <shortdesc class="- topic/shortdesc ">The University of Minnesota uses Canvas as its primary learning management
+            system.</shortdesc></abstract> 
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Canvas includes a variety of customizable tools to help manage and communicate course content. Kaltura integration with Canvas allows users to upload, record, and
+        edit videos that will later be uploaded to the Canvas course page.</p>
+        <p class="- topic/p ">
+            Videos in Canvas are
+            often used to share educational content such as
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">lectures,</li>
+                <li class="- topic/li ">demonstrations,</li>
+                <li class="- topic/li ">instructions,</li>
+                <li class="- topic/li ">weekly overviews.</li>
+            </ul></p>
+    </conbody>
+  
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="kaltura_0" oid="kaltura_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Kaltura overview</ph></title>
+    <shortdesc class="- topic/shortdesc ">Kaltura is a media management platform for teaching, learning, and
+        outreach.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "> This cloud-based system automatically optimizes video files for viewing on any device, includes
+            strong accessibility work flows, powerful search functions, and deep analytics about who is
+            watching videos and for how long. </p>
+        <image class="- topic/image " href="file:/Users/alisonobright/Desktop/tc3_v6/topics/Kaltura.png" placement="break" width="200px">
+            <alt class="- topic/alt ">Kaltura logo</alt>
+        </image>
+    </conbody>
+
+<task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="uploading_media" oid="uploading_media" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Uploading media</ph></title>
+    <shortdesc class="- topic/shortdesc ">Kaltura capture allows the user to upload previously recorded media. Using the upload
+        feature is recommended for sharing previously recorded media to Canvas.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+   
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Log in to <xref class="- topic/xref " format="html" href="http://mediaspace.umn.edu/" scope="external"><?ditaot usertext?>Kaltura MediaSpace</xref></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the <uicontrol class="+ topic/ph ui-d/uicontrol ">+ Add New</uicontrol>button in the upper-right corner of
+                    the page</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <uicontrol class="+ topic/ph ui-d/uicontrol ">Upload New Media</uicontrol> to make the upload media window appear</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Drag and drop your file into the display box or select <uicontrol class="+ topic/ph ui-d/uicontrol ">+ Choose a File Upload</uicontrol> to
+                    button to browse files on your computer</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Update the Name, Description, Tags, and Publishing Schedule as desired</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose your video <xref class="- topic/xref " href="#unique_4" type="reference"><?ditaot usertext?>share settings<?ditaot genshortdesc?><desc class="- topic/desc ">There are several publishing options that control who can access published Kaltura         media. </desc></xref></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <uicontrol class="+ topic/ph ui-d/uicontrol ">Save</uicontrol>at the bottom of the page</cmd>
+                <info class="- topic/itemgroup task/info "> <note class="- topic/note " type="attention">Your file may take some time to process depending on the size and quality
+                        chosen, but it is available in My Media once fully uploaded.</note></info>
+            </step>
+        </steps>
+    </taskbody>
+<reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="reference_eqj_w25_3zb" oid="reference_eqj_w25_3zb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Video share settings table</ph></title>
+    <shortdesc class="- topic/shortdesc ">There are several publishing options that control who can access published Kaltura
+        media. </shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+    
+        <table class="- topic/table ">
+            <tgroup class="- topic/tgroup " cols="2">
+                <colspec align="center" class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;11:75" xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" style="width:37.1747%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.69*" xtrc="colspec:2;12:63" xtrf="file:/Users/alisonobright/Desktop/tc3_v6/topics/Share%20types.dita" style="width:62.8253%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" valign="top">Publishing type</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" valign="top">Meaning</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Private</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">
+                            <ul class="- topic/ul ">
+                                <li class="- topic/li ">
+                                    Media page is visible to the content owner only
+                                </li>
+                                <li class="- topic/li ">
+                                    Media page cannot be shared with others
+                                </li>
+                            </ul>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Unlisted</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">
+                            <ul class="- topic/ul ">
+                                <li class="- topic/li ">
+                                    Media page is visible to anyone with a link to the page
+                                </li>
+                                <li class="- topic/li ">
+                                    Link must be shared directly with others by <xref class="- topic/xref " format="html" href="https://ccaps.umn.edu/academic-technology-and-design/instructors/tutorials-media/kaltura-obtaining-sharable-media-link" scope="external"><?ditaot usertext?>Getting a Shareable
+                                        Link</xref>
+                                </li>
+                            </ul>
+                        </entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Public</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">
+                            <ul class="- topic/ul ">
+                                <li class="- topic/li ">Media page is visible to individuals according to permissions set for your channels</li>
+                                <li class="- topic/li ">A<xref class="- topic/xref " format="html" href="https://it.umn.edu/services-technologies/how-tos/kaltura-mediaspace-use-channels-group" scope="external"><?ditaot usertext?>Channel</xref> must already exist within MediaSpace to use this option</li>
+                            </ul>
+                        </entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference></task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="task_qt4_yh5_3zb" oid="task_qt4_yh5_3zb" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Recording new media</ph></title>
+    <shortdesc class="- topic/shortdesc ">The Kaltura media space is able to record new content for My Media using user web
+        cams.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">These steps assume your browser can support the <xref class="- topic/xref " format="html" href="https://webrtc.org/" scope="external"><?ditaot usertext?>WebRTC standard</xref>. <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Log in to <xref class="- topic/xref " format="html" href="https://mediaspace.umn.edu/" scope="external"><?ditaot usertext?>mediaspace.umn.edu</xref></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">+ Add New</uicontrol> button found on the top right corner of the page's banner</cmd>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " href="file:/Users/alisonobright/Desktop/tc3_v6/topics/add_new.png" placement="inline" width="450"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Select <uicontrol class="+ topic/ph ui-d/uicontrol ">Record Webcam </uicontrol>in Browser from the drop-down menu
+                    to open the Record Media window</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li ">The web browser and/or operating system may ask permission for
+                            canvas.umn.edu to use your camera and microphone. Click
+                                <uicontrol class="+ topic/ph ui-d/uicontrol ">Allow</uicontrol> to give Kaltura access to your
+                            webcam.</li>
+                        <li class="- topic/li ">Click the <uicontrol class="+ topic/ph ui-d/uicontrol ">gear </uicontrol>icon in the top right corner of
+                            the video display to change which/whether camera or microphone is
+                            recorded.</li>
+                    </ul>
+                    <note class="- topic/note ">It may take a moment for the camera to appear on screen</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the <uicontrol class="+ topic/ph ui-d/uicontrol ">red circle </uicontrol>button to start recording</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note " type="important">Scroll to the bottom of the screen if the red button is
+                        not visible</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the <uicontrol class="+ topic/ph ui-d/uicontrol ">white squar e</uicontrol>button to stop recording</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select the white play button to review your recording. If you are unsatisfied,
+                    click the <uicontrol class="+ topic/ph ui-d/uicontrol ">Record Again </uicontrol>button to re-record.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Click <uicontrol class="+ topic/ph ui-d/uicontrol ">Use this</uicontrol> to upload the recording to Kaltura</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter a name for the recording near the bottom of the window</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Scroll down, select <uicontrol class="+ topic/ph ui-d/uicontrol ">Save</uicontrol> and wait until the window reloads with the message <msgph class="+ topic/ph sw-d/msgph ">Your changes have been saved</msgph></cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Select <uicontrol class="+ topic/ph ui-d/uicontrol ">Go to Media Page</uicontrol> and then <uicontrol class="+ topic/ph ui-d/uicontrol ">Go to My
+                        Media</uicontrol> to return to your MediaSpace dashboard. </cmd>
+            </step>
+
+        </steps>
+    </taskbody>
+</task></concept></map>
